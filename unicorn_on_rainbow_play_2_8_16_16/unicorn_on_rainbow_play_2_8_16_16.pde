@@ -17,7 +17,7 @@ void draw() {
   // 6. Draw the unicorn using: image(PImage image, int xPosition, int yPosition)
  image(unicorn, 23,53);
  background(rainbow);{
- image(unicorn,mouseX-100,mouseY-100);
+ image(unicorn,mouseX-150,mouseY-150);
  }
   // 7. Change the line above so that the unicorn moves with the mouse.
   // 8. You may want to make your unicorn transparent. See these instructions: bit.ly/pretty-unicorn
